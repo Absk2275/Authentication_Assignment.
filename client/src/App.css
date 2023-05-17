@@ -1,0 +1,29 @@
+
+
+.main {
+width:20%;
+  margin: auto;
+  box-shadow: 0 0 5px 2px grey;
+  margin-top: 20px;
+  border-radius: 2px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  background-color: #69ace7;
+
+  
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("paper.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  
+}
+a{
+  text-decoration: none;
+}
+
